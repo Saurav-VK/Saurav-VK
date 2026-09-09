@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Saurav VK</h1>
 
-<!--
-**Saurav-VK/Saurav-VK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  AI/ML Engineer · RAG · NLP · Machine Learning Systems . Software Development
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  I build intelligent systems that combine machine learning,
+  retrieval, backend engineering, and production deployment.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://saurav-vk-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-blue?style=for-the-badge">
+  </a>
+  <a href="https://www.linkedin.com/in/saurav-vk">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
+
+---
