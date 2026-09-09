@@ -55,17 +55,65 @@
 
 <h2 align="center">🛠️ Tech Arsenal</h2>
 
-<h3>AI / Machine Learning</h3>
+<h3>AI / Machine Learning & Data Science</h3>
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn">
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-8A2BE2?style=flat-square">
-  <img src="https://img.shields.io/badge/FAISS-Vector_Search-4B8BBE?style=flat-square">
-  <img src="https://img.shields.io/badge/BM25-Sparse_Retrieval-FF6F00?style=flat-square">
-  <img src="https://img.shields.io/badge/XGBoost-ML-EC6B23?style=flat-square">
+  <img src="https://img.shields.io/badge/NumPy-Numerical_Computing-013243?style=flat-square&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=flat-square&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/SciPy-Scientific_Computing-8CAAE6?style=flat-square&logo=scipy&logoColor=white">
+  <img src="https://img.shields.io/badge/XGBoost-Gradient_Boosting-EC6B23?style=flat-square">
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=flat-square">
+  <img src="https://img.shields.io/badge/Seaborn-Visualization-4C72B0?style=flat-square">
+  <img src="https://img.shields.io/badge/Plotly-Interactive_Visualization-3F4F75?style=flat-square&logo=plotly&logoColor=white">
+</p>
+
+<p>
+  <b>Supervised Learning:</b><br>
+  Linear Regression · Logistic Regression · Decision Trees · Random Forest ·
+  XGBoost · Support Vector Machines (SVM) · K-Nearest Neighbors (KNN) ·
+  Naive Bayes
+</p>
+
+<p>
+  <b>Unsupervised Learning:</b><br>
+  K-Means Clustering · Hierarchical Clustering · DBSCAN ·
+  Principal Component Analysis (PCA)
+</p>
+
+<p>
+  <b>Data Science & ML:</b><br>
+  Exploratory Data Analysis (EDA) · Data Cleaning · Data Preprocessing ·
+  Feature Engineering · Feature Selection · Dimensionality Reduction ·
+  Data Visualization · Statistical Analysis · Class Imbalance Handling
+</p>
+
+<p>
+  <b>Model Development & Evaluation:</b><br>
+  Train/Test Splitting · Cross-Validation · Hyperparameter Tuning ·
+  Classification · Regression · Clustering ·
+  Accuracy · Precision · Recall · F1-Score · ROC-AUC ·
+  Confusion Matrix · MAE · MSE · RMSE · R²
+</p>
+
+<p>
+  <b>NLP & Generative AI:</b><br>
+  Natural Language Processing · Text Preprocessing · Tokenization ·
+  TF-IDF · Word Embeddings · Transformers · Hugging Face ·
+  Large Language Models (LLMs) · Prompt Engineering
+</p>
+
+<p>
+  <b>Retrieval Systems:</b><br>
+  RAG · Semantic Search · Vector Embeddings · FAISS · BM25 ·
+  Hybrid Retrieval · Reciprocal Rank Fusion (RRF) ·
+  Cross-Encoder Reranking · RAG Evaluation
 </p>
 
 <h3>Backend / Data</h3>
