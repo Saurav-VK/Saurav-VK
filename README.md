@@ -180,7 +180,10 @@
         Python · XGBoost · Scikit-learn · Flask · Docker
       </p>
       <a href="https://github.com/Saurav-VK/CreditGuard-AI">
-        <img src="https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github" alt="CreditGuard AI Repository">
+        <img
+          src="https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github"
+          alt="CreditGuard AI Repository"
+        >
       </a>
     </td>
 
@@ -192,10 +195,13 @@
       </p>
       <p>
         <b>Stack:</b><br>
-        Python · PySpark · Spark SQL · Pearson Correlation
+        Python · Apache Spark · PySpark · Pearson Correlation
       </p>
       <a href="https://github.com/Saurav-VK/Movie-Recommender">
-        <img src="https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github" alt="Movie Recommender Repository">
+        <img
+          src="https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github"
+          alt="Movie Recommender Repository"
+        >
       </a>
     </td>
 
@@ -210,7 +216,10 @@
         Spring Boot · React · Spring Security · JWT · MySQL
       </p>
       <a href="https://github.com/Saurav-VK/CLICKFIX">
-        <img src="https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github" alt="CLICKFIX Repository">
+        <img
+          src="https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github"
+          alt="CLICKFIX Repository"
+        >
       </a>
     </td>
   </tr>
