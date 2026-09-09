@@ -191,26 +191,3 @@
 
 ---
 
-<h2 align="center">📈 GitHub Activity</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Saurav-VK&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    height="165"
-    alt="Saurav's GitHub Stats"
-  >
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurav-VK&layout=compact&theme=tokyonight&hide_border=true"
-    height="165"
-    alt="Saurav's Top Languages"
-  >
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Saurav-VK&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  >
-</p>
-
----
