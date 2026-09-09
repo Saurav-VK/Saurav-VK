@@ -116,15 +116,47 @@
   Cross-Encoder Reranking · RAG Evaluation
 </p>
 
-<h3>Backend / Data</h3>
+<h3>Backend Engineering</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,spring,redis,mysql">
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,spring,java">
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/PySpark-Distributed_Computing-E25A1C?style=flat-square&logo=apachespark&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring_Boot-Backend-6DB33F?style=flat-square&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring_Security-Authentication-6DB33F?style=flat-square&logo=springsecurity&logoColor=white">
+  <img src="https://img.shields.io/badge/JWT-Authentication-000000?style=flat-square&logo=jsonwebtokens&logoColor=white">
   <img src="https://img.shields.io/badge/REST-APIs-009688?style=flat-square">
+</p>
+
+<p>
+  <b>Backend Frameworks:</b><br>
+  FastAPI · Flask · Spring · Spring Boot
+</p>
+
+<p>
+  <b>API Development:</b><br>
+  REST APIs · Request / Response Handling · API Routing ·
+  Data Validation · Error Handling · JSON · HTTP
+</p>
+
+<p>
+  <b>Authentication & Security:</b><br>
+  Spring Security · JWT Authentication ·
+  Authentication & Authorization · Protected Routes
+</p>
+
+<p>
+  <b>Microservices:</b><br>
+  Microservice Architecture · API Gateway ·
+  Eureka Service Discovery · Centralized Configuration ·
+  Inter-Service Communication
+</p>
+
+<p>
+  <b>Production & Deployment:</b><br>
+  Docker · Gunicorn · Redis Caching · Environment Configuration ·
+  Logging
 </p>
 
 <h3>Frontend / DevOps</h3>
