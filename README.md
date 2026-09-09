@@ -166,3 +166,57 @@
 </p>
 
 ---
+
+<h2 align="center">🚀 More Projects</h2>
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>📊 CreditGuard AI</h3>
+      <p>
+        End-to-end credit risk prediction system using XGBoost with
+        preprocessing, feature engineering, model evaluation, and
+        production API deployment.
+      </p>
+      <p>
+        <b>Stack:</b><br>
+        Python · XGBoost · Scikit-learn · Flask · Docker
+      </p>
+      <a href="https://github.com/Saurav-VK/CreditGuard-AI">
+        <img src="https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github">
+      </a>
+    </td>
+
+    <td width="33%" valign="top">
+      <h3>🎬 Movie Recommender</h3>
+      <p>
+        Distributed item-based recommendation system using PySpark
+        and Pearson correlation over MovieLens user-rating data.
+      </p>
+      <p>
+        <b>Stack:</b><br>
+        Python · PySpark · Spark SQL · Pearson Correlation
+      </p>
+      <a href="https://github.com/Saurav-VK/Movie-Recommender">
+        <img src="https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github">
+      </a>
+    </td>
+
+    <td width="33%" valign="top">
+      <h3>🔧 CLICKFIX</h3>
+      <p>
+        Full-stack vehicle service management platform built using
+        Spring Boot microservices with secure user and admin workflows.
+      </p>
+      <p>
+        <b>Stack:</b><br>
+        Spring Boot · React · Spring Security · JWT · MySQL
+      </p>
+      <a href="https://github.com/Saurav-VK/CLICKFIX">
+        <img src="https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github">
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
